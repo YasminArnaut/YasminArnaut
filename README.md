@@ -1,4 +1,5 @@
-<h1>Olá, eu sou a Yasmin!</h1>
+ <img align="right" height="120" width="120" src="https://cdn.discordapp.com/attachments/939573113820151930/954900647659057154/Yasmin.gif" />
+<h1>Olá, eu sou a Yasmin!</h1> 
 
 <div align="center">
   <a href="https://github.com/YasminArnaut">
@@ -15,6 +16,8 @@
   <img align="center" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
  <img align="center" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" height="95" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" />
+ 
+  
  
  
   </div>
